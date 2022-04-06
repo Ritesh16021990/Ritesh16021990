@@ -3,10 +3,7 @@
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-- hpsdvdv'
-
-hi jow are yiu 
-
+I am ritesh Shah 
 
 <!---
 Ritesh16021990/Ritesh16021990 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
